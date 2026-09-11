@@ -43,7 +43,7 @@ The tutorial scripts require SPM. They are **compatible with either SPM12 or SPM
 1. Download SPM from the official download page:  
    👉 [https://www.fil.ion.ucl.ac.uk/spm/software/download/](https://www.fil.ion.ucl.ac.uk/spm/software/download/)
 2. Place the uncompressed `spm12` (or `spm25`) folder in your preferred directory.
-3. Open MATLAB and add the main SPM folder **and the `DEM` subfolder** to your search path. You can do this from the **Current Folder** window (the column on the left): navigate to the folder in the MATLAB file explorer, right-click it, and select **Add to Path**. Do **not** add all subfolders — only the main SPM folder and `DEM`.
+3. Open MATLAB and add the main SPM folder **and the `toolbox\DEM\` subfolder** to your search path. You can do this from the **Current Folder** window (the column on the left): navigate to the folder in the MATLAB file explorer, right-click it, and select **Add to Path**. Do **not** add all subfolders — only the main SPM folder and `DEM`.
 
 ### 4. Confirm the Installation Works
 
